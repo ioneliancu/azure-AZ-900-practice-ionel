@@ -1,2 +1,19 @@
-# azure-AZ-900-practice-ionel
-This repository contains my hands-on practice and labs for Microsoft Azure (AZ-900 and AZ-104).  I document real exercises covering Identity, Compute, Networking, Storage, RBAC, Monitoring, and basic automation.  All labs are created in my personal Azure environment and include screenshots, notes, and step-by-step instructions.
+# Azure Hands-on Practice (AZ-900 / AZ-104)
+
+This repository contains my hands-on practice and labs for Microsoft Azure.
+It includes real exercises covering:
+
+- Identity (Entra ID)
+- Compute (Virtual Machines)
+- Networking (VNet, Subnet, NSG)
+- Storage (Blob, File Share)
+- Intune (Autopilot, Compliance)
+
+Each lab includes:
+- Step-by-step documentation
+- Commands used (Azure CLI / PowerShell)
+- Screenshots
+- Notes and troubleshooting
+
+This repository serves as my technical portfolio while studying for AZ-900 and AZ-104.
+
